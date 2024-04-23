@@ -1,5 +1,7 @@
 package com.Practical;
 
 public class Test {
-welcome
+  public static void main(String[] args) {
+    System.out.println("Hello");
+  }
 }
