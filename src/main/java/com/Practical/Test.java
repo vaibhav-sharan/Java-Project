@@ -1,2 +1,5 @@
-package com.Practical;public class Test {
+package com.Practical;
+
+public class Test {
+welcome
 }
